@@ -10,7 +10,7 @@ public class coche {
 		return velocidad;
 	}
 	public void setVelocidad(int velocidad) {
-		this.velocidad = velocidad;
+		this.velocidad  = velocidad;
 	}
 	public int getAceleracion() {
 		return aceleracion;
