@@ -4,11 +4,13 @@ public class main {
 	public static void main(String[] args) {
 		
 	
-	coche c = new coche();
+	coche nissan = new coche();
 	
-	c.setAceleracion(0);
+	nissan.setAceleracion(0);
+	nissan.setVelocidad(0);
+	nissan.setNombre("coche");
 	
-	
+	System.out.println("el nombre de mi coche es" + nissan.getNombre() + "tiene una velocidad de" +nissan.getVelocidad());
 	
 }	
 }
