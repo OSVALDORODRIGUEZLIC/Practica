@@ -6,9 +6,11 @@ public class Mama {
 	private String nombre;
 	
 	public String baila() {
-	return "mammbo";	
+	return "zumba";	
 	}
 
+	
+	
 	public String cocina() {
 		return "salado";
 	}
