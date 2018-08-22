@@ -6,7 +6,7 @@ public class Mama {
 	private String nombre;
 	
 	public String baila() {
-	return "roc ";	
+	return "rock ";	
 	}
 
 	
