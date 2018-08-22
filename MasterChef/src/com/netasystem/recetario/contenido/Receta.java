@@ -1,8 +1,7 @@
 package com.netasystem.recetario.contenido;
 
 import java.util.List;
-
-public class Receta {
+ class Receta {
 	public Receta(String nombrechef, String nombrereceta, List listamateriales) {
 		super();
 		this.nombrechef = nombrechef;
